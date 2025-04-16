@@ -53,7 +53,8 @@ export default function RootLayout({
         />
 
         <Script
-          src='https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v22.0&appId=1020255332835733'
+          // src='https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v22.0&appId=1020255332835733'
+          src='https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v22.0&appId=411033712062395'
           async
           defer
           crossOrigin='anonymous'

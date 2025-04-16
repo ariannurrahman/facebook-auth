@@ -22,10 +22,7 @@ export default function Home() {
       <div className='flex flex-row justify-around items-center'>
         <div
           className='fb-login-button'
-          onClick={() => {
-            console.log('clicked');
-          }}
-          data-width='300'
+          data-width='400'
           data-size=''
           data-button-type=''
           data-layout=''
